@@ -13,6 +13,8 @@ https://gist.github.com/f4591837d628c7341014dc1eba74fb30
 https://gist.github.com/ed84c94012092e1ee3f2b589ba1a14f0
 https://gist.github.com/f9e299c27535b6306a36451461d07822
 https://gist.github.com/ccd062a3c84a25288cbad744426903b3
+https://gist.github.com/1c1c45704d6eaa11682b10f1d236caac
+https://gist.github.com/c9d11258daad7e0cae3dab55b5acbfe0
 
 
 
